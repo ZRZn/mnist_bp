@@ -1,0 +1,3 @@
+/Users/ZRZn1/CLionProjects/mnist_bp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ZRZn1/CLionProjects/mnist_bp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ZRZn1/CLionProjects/mnist_bp/cmake-build-debug/CMakeFiles/mnist_bp.dir
